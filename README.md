@@ -12,11 +12,6 @@ The aim of this project is to show how a car park controller can be designed usi
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/81603864/223952014-c4357cd3-ae65-4f39-b7c9-92f019ab29fe.png)
 
-The block diagram of the project is shown Fig. 15.13. It is assumed that barriers with
-switches are used at the entry and exit points of the car park. Normally the outputs of these
-switches are held at logic HIGH and they become LOW when the barriers are lifted.
-15.7.4 Circuit Diagram
-The circuit diagram of the project is shown in Fig. 15.14. Entry and exit switches are named
-as EntrySwitch and ExitSwitch, respectively and they are connected to GPIO pins PC_0 and
-PC_1 as shown in the figure. In this project two push-button switches are used to simulate the
-car park barriers. A PC is used to display the car park informatio
+## Circuit Diagram
+![image](https://user-images.githubusercontent.com/81603864/223952228-874a3a4a-70cf-4462-b9bf-804168a018f6.png)
+
