@@ -1,6 +1,6 @@
 # Car-Park-System-Using-Mbed-RTOS
 
-*1 Description*
+##1 Description
 This is a simple car park controller project. It is assumed that the car park has a capacity of
 100 cars. Entry and exit gate barriers are available at the car park entry and exit points, respectively. The gate output signals are normally at logic HIGH and they go to logic LOW when a
 gate opens to let a car pass through. The controller counts the number of cars inside the car
